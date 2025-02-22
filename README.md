@@ -27,4 +27,4 @@ json body:
   "password": "admin123"
 }
 
-Demais endpoints estão no arquivo "postman.json", que poderá ser adicionado como coleção no Postman.
+Todos os endpoints estão adicionados no arquivo "postman.json", que poderá ser adicionado como coleção no Postman.
